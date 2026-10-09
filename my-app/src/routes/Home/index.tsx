@@ -57,7 +57,7 @@ async function loadingData() {
   }
 }
 
-//loadingData();
+loadingData();
 
 },[]);
 
